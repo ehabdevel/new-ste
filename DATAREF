@@ -1,1 +1,4 @@
-filepath = 'addPost/index.html'
+filepath = 'index.html'
+formid = 'fpform'
+inputid = 'fptitle'
+textareaid = 'fppost'
