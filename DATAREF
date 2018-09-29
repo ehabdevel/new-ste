@@ -1,0 +1,4 @@
+filepath = 'index.html'
+formid = 'fpform'
+inputid = 'fptitle'
+textareaid = 'fppost'
